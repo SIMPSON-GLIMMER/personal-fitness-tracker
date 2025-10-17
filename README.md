@@ -89,5 +89,3 @@ personal-fitness-tracker/
 * Deploy model backend separately via FastAPI for scalability.
 
 
-Would you like me to also include a small `requirements.txt` file snippet you can paste into your repo (so Streamlit Cloud installs everything automatically)?
-```
