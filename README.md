@@ -39,13 +39,17 @@ Try it here:
 
 
 personal-fitness-tracker/
+
 │
 
 ├── app.py                   # Main Streamlit app
 
 ├── calories.csv             # Calorie data
+
 ├── exercise.csv             # Exercise data
+
 ├── requirements.txt         # Project dependencies
+
 └── README.md                # Project documentation
 
 
